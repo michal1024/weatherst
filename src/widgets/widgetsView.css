@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 800px;
+    height: 480px;
+    background-color: var(--color-background);
+  }

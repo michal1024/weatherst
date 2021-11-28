@@ -1,0 +1,27 @@
+.forecast-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 550px;
+    background-color: var(--color-background);
+    color: var(--color-text-primary);
+}
+
+.day-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.day-date, .day-temp {
+    font-size: 24px;
+}
+
+.day-date {
+    width: 60px;
+}
+
+.day-temp {
+    width: 90px;
+}

@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'RussoOne';
+    src: url(./fonts/Russo_One/RussoOne-Regular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(./fonts/Roboto/Roboto-Regular.ttf) format("truetype");
+}
+

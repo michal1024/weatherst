@@ -1,0 +1,11 @@
+:root {
+--color-background: rgb(10, 10, 10);
+--color-text-primary: rgb(252, 241, 225);
+--color-text-secondary: rgb(130, 125, 150);
+--color-text-error: #cc2936ff;
+--color-text-warn: #c97b84ff;
+}
+
+body {
+    overflow: hidden;
+}

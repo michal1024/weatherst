@@ -1,0 +1,29 @@
+
+
+.netstats-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding-left: 30px;
+    width: 150;
+}
+
+.netstats-latency, .netstats-graph {
+    font-family: 'Roboto';
+    color: var(--color-text-primary);
+
+}
+
+.netstats-graph {
+    z-index: 0;
+}
+
+.netstats-latency{
+    font-size: 32px;
+    width: 80px;
+}
+
+.netstats-units {
+    font-size: 12px;
+}

@@ -1,0 +1,27 @@
+.timedate {
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    width: 390px;
+    font-family: 'RussoOne';
+    color: var(--color-text-primary);
+}
+
+.time {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 96px;
+}
+
+.time-divider-on {
+    color: var(--color-text-primary);
+}
+
+.time-divider-off {
+    color: var(--color-background);
+}
+
+.date {
+    font-size: 26px;
+}
